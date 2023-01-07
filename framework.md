@@ -1,5 +1,5 @@
 # Cloud Governance Framework - Les 11
-[Online versie](https://github.com/RamiNuman/CloudGov11)
+[Online versie](https://github.com/RamiNuman/CloudGov11/blob/main/framework.md)
 
 ## Standaard / Framework:
 ## Bijdragen van de framework

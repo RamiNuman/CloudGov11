@@ -79,7 +79,6 @@ De verschillende gedefinieerde rollen binnen de Capability Framework zijn:
 ## Bijdragen van de framework
 In Nederland wordt TOGAF framework door zowel overheidsorganisaties als in de prive sector veel gebruikt. Wereldwijd wordt de framework door 80% van de top 50 Globale bedrijven gebruikt en 60% door 500 Fortune Companies.
 
-## Welke cloud governance aspecten worden afgedekt?
 ## Sterke en minder sterke punten
 | Sterktes                            | Zwaktes                                           |
 | ----------------------------------- | ------------------------------------------------- |

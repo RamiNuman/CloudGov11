@@ -22,7 +22,7 @@ De 6 onderdelen worden in dit document kort uitgelegd
 ### The Architecture Developement Method
 Een bewezen manier van het ontwikkelen van een architectuur. Ontwikkeld om business benodigdheden aan te pakken. AMD is een iteratieve methode en zorgt ervoor dat een complexe groep van benodigdheden zijn specifiek aangepakt
 
-![TOGAF AMD](C:\users\rami\desktop\togaf.png)
+![TOGAF AMD](/img/togaf.png)
 Elke iteratie is een nieuwe beslissing. Beslissingen ijn gebaseerd op:
 - Bevoegheid / resource beschikbaarheid
 - Waarde die toekomt aan de onderneming.
@@ -42,7 +42,7 @@ Elke iteratie is een nieuwe beslissing. Beslissingen ijn gebaseerd op:
 
 ### Architectural Content Framework
 Biedt een gedetaileerde model aan van architectonisch werkproducten. Dit houdt Deliverables, Artifacts en Architecture Building Blocks (ABBs) in. Helpt om een betere consistantie te brengen in de output van TOGAF. Biedt een uitgebreiden checklist van architectuur outputs. Bevordert betere integraties van werkproducten en als laatste biedt het een openstandaard voor hoe architecturen beschreven moeten worden.
-![TOGAF ACF](C:\users\rami\desktop\togaf2.png)
+![TOGAF ACF](/img/togaf2.png)
 
 ### Reference Models
 Er zijn 2 modellen die gerefereerd worden:
@@ -61,7 +61,7 @@ De Enterprise Continuum bestaat uit meerdere onderdelen die uiteindelijk de arch
 
 Architecture Context and Requirements zijn de basis requirements van een organisatie voor een architectuur. Deze kan beinvloed worden door externe factoren buiten de organisatie. Architecture Context wordt vervolgens vertaald naar een Architecture Continuum. Hierbij wordt er een specifieke Architectuur model geadopteerd voor gebruik. Architecture Continuum wordt ondersteund door Solutions Continuum via richtlijnen en ondersteuningen. Solution Continuum worden geinitieerd binnen een deployment naar een Deployed Solutions
 
-![togaf EC](c:\users\rami\desktop\togaf3.png)
+![togaf EC](/img/togaf3.png)
 
 ### Architecture Capability Framework
 Om een architectuurfunctie binnen een onderneming succesvol uit te voeren, is het noodzakelijk om de juiste organisatiestructuren, processen, rollen, verantwoordelijkheden en vaardigheden in te voeren om de architectuurcapaciteit te realiseren. Architecture Capability Framework biedt een reeks referentiematerialen voor het opzetten van een dergelijke architectuurfunctie. Lezers moeten er rekening mee houden dat hoewel dit deel een aantal richtlijnen bevat ter ondersteuning van kernactiviteiten, het Architecture Capability Framework in zijn huidige vorm niet bedoeld is als een uitgebreide sjabloon voor het uitvoeren van een Enterprise Architecture Capability
